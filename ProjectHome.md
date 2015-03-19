@@ -1,0 +1,1 @@
+IE Tab V2 allows you to use the IE rendering engine to display pages in a Firefox tab.
